@@ -1,0 +1,17 @@
+server.servlet.contextPath=/EbedsidecardSpring
+
+spring.profiles.active=@activatedProperties@
+
+# LDAP
+spring.ldap.urls=ldap://ldap.vghtc.gov.tw:389
+spring.ldap.base=o=vghtc,c=tw
+spring.ldap.username=cn=root
+spring.ldap.password=f1n3ldap
+
+#schedule
+scheduling.enabled=false
+
+management.endpoints.web.exposure.include=scheduledtasks
+
+# SMTP
+spring.mail.host=mail.vghtc.gov.tw

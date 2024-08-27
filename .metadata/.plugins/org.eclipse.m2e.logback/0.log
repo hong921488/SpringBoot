@@ -1,0 +1,21 @@
+2024-08-26 17:17:44,720 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-26 17:28:29,373 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gov.vghtc:EbedsidecardSpring:0.0.1-SNAPSHOT @ C:\Users\VGH00\git\EbedsidecardSpring\EbedsidecardSpring\pom.xml.
+2024-08-26 17:28:29,992 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EbedsidecardSpring/src/main/java
+2024-08-26 17:28:29,992 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EbedsidecardSpring/src/main/resources
+2024-08-26 17:28:29,997 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EbedsidecardSpring/src/main/resources
+2024-08-26 17:28:30,001 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EbedsidecardSpring/src/test/java
+2024-08-26 17:28:31,552 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-08-26 17:28:37,809 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-27 08:30:58,296 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-27 08:31:02,226 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:31:02,239 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:31:02,244 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VGH00\git\EbedsidecardSpring\EbedsidecardSpring\src\test\resources
+2024-08-27 08:34:36,272 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:36,283 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:36,285 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VGH00\git\EbedsidecardSpring\EbedsidecardSpring\src\test\resources
+2024-08-27 08:34:46,175 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:46,184 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:46,187 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VGH00\git\EbedsidecardSpring\EbedsidecardSpring\src\test\resources
+2024-08-27 08:34:52,073 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:52,080 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\dev\classes
+2024-08-27 08:34:52,082 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\VGH00\git\EbedsidecardSpring\EbedsidecardSpring\src\test\resources
